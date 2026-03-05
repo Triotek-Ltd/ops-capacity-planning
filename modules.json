@@ -1,0 +1,45 @@
+[
+  {
+    "module_code": "ops12_3",
+    "module_label": "OPS 12.3 - Bottleneck Identification - Detects constraints; consists of throughput analysis record.",
+    "module_title": "Bottleneck Identification - Detects constraints; consists of throughput analysis record.",
+    "module_slug": "bottleneck_identification_detects_constraints_consists_of_throughput_analysis_record",
+    "app_code": "ops12",
+    "app_label": "OPS 12 - Capacity Planning",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops12_1",
+    "module_label": "OPS 12.1 - Capacity Calculation - Determines output limit; consists of resource capacity analysis.",
+    "module_title": "Capacity Calculation - Determines output limit; consists of resource capacity analysis.",
+    "module_slug": "capacity_calculation_determines_output_limit_consists_of_resource_capacity_analysis",
+    "app_code": "ops12",
+    "app_label": "OPS 12 - Capacity Planning",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops12_2",
+    "module_label": "OPS 12.2 - Load Analysis - Compares demand vs supply; consists of utilization metrics.",
+    "module_title": "Load Analysis - Compares demand vs supply; consists of utilization metrics.",
+    "module_slug": "load_analysis_compares_demand_vs_supply_consists_of_utilization_metrics",
+    "app_code": "ops12",
+    "app_label": "OPS 12 - Capacity Planning",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_slug": "ops12_1"
+  },
+  {
+    "module_code": "ops12_4",
+    "module_label": "OPS 12.4 - Shift Planning - Allocates workforce hours; consists of schedule entries.",
+    "module_title": "Shift Planning - Allocates workforce hours; consists of schedule entries.",
+    "module_slug": "shift_planning_allocates_workforce_hours_consists_of_schedule_entries",
+    "app_code": "ops12",
+    "app_label": "OPS 12 - Capacity Planning",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
